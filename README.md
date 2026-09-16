@@ -179,7 +179,7 @@ It analyzes area such as:
 - Demand Analysis by Category
   
 ## DASHBOARD
-<a href =https://github.com/kiran00226/Ritail_Sales_Analytics/blob/a6a42058aed33bdd285c8a3c90a1adaae3b6b320/Docs/Product%20Dashboard.png>
+<a href = https://github.com/kiran00226/Retail_Sales_Analytics_Dashboard/blob/4eee49e3ee1c72095c5d67567bdde7493036a923/Docs/Product%20Performance%20Dashboard.png>
 Click Here</a>
 <br>
 <br>
