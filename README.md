@@ -146,7 +146,7 @@ It analyzes areas such as:
 - Purchase frequency analysis
  
 ## DASHBOARD
-<a href =https:https://github.com/kiran00226/Retail_Sales_Analytics_Dashboard/blob/f5fcef7cdfbcd667baf722157d104426935752f4/Docs/Customer%20Dashboard.png>
+<a href = https:https://github.com/kiran00226/Retail_Sales_Analytics_Dashboard/blob/f5fcef7cdfbcd667baf722157d104426935752f4/Docs/Customer%20Dashboard.png>
 Click Here</a>
 <br>
 <br>
