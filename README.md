@@ -163,7 +163,7 @@ It analyzes areas such as:
 - Day-of-week sales patterns
   
 ## DASHBOARD
-<a href =https://github.com/kiran00226/Ritail_Sales_Analytics/blob/9f76f1142ed6c277d45a7c2f4f1ec594115b4758/Docs/Sales%20Dashboard.png>
+<a href = https://github.com/kiran00226/Retail_Sales_Analytics_Dashboard/blob/f3299a993b8e1094dc3de40028f701986dcbd88b/Docs/Sales%20Dashboard.png>
 Click Here</a>
 <br>
 <br>
