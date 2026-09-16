@@ -131,7 +131,7 @@ It analyzes areas such as:
 - Store-wise sales and order performance
 
 ## DASHBOARD
-<a href =https://github.com/kiran00226/Ritail_Sales_Analytics/blob/ca8564c36802021a43cc38bcf9ae2e1f41604c12/Docs/Executive%20Dashboard.png>Click Here</a>
+<a href = https://raw.githubusercontent.com/kiran00226/Retail_Sales_Analytics_Dashboard/4281227d2a06abd96be270e1a34a70ff78c9722d/Docs/Executive%20Dashboard.png>Click Here</a>
 
 <br> 
 
