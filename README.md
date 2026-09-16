@@ -213,7 +213,7 @@ It analyzes areas such as:
 - Profit Analysis by Category
  
 ## DASHBOARD
-<a href =https://github.com/kiran00226/Ritail_Sales_Analytics/blob/a1ad58c97581cf4820eaebd4f12b13a3968ddb8e/Docs/Revenue%20Dashboard.png>
+<a href = https://github.com/kiran00226/Retail_Sales_Analytics_Dashboard/blob/74fe798e6fd32eceb60217ac49ba0fd2a2298692/Docs/Revenue.png>
 Click Here</a>
 <br>
 <br>  
