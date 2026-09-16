@@ -195,7 +195,7 @@ It analyzes areas such as:
 - Stock-in vs Sales by Store
  
 ## DASHBOARD
-<a href =https://github.com/kiran00226/Ritail_Sales_Analytics/blob/01ef31b01890cb2c97030723e46dfb42768ef7dc/Docs/Inventory%20Dashboard.png>
+<a href = https://github.com/kiran00226/Retail_Sales_Analytics_Dashboard/blob/ee9aebca7f416d8a4dd81a720c8e16f3d7792f62/Docs/Inventory%20Dashboard.png>
 Click Here</a>
 <br>
 <br>
